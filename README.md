@@ -1,2 +1,2 @@
-#AnthonyApp
+#MyApp
 Read me first
